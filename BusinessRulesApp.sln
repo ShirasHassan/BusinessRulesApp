@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRulesApi", "BusinessRulesApi\BusinessRulesApi.csproj", "{95E5049E-CBC8-4728-825B-3085E95B620A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRuleDomain", "BusinessRuleDomain\BusinessRuleDomain.csproj", "{4BFE651C-062A-40A5-8C21-E9AE5B78538A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E5049E-CBC8-4728-825B-3085E95B620A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E5049E-CBC8-4728-825B-3085E95B620A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E5049E-CBC8-4728-825B-3085E95B620A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E5049E-CBC8-4728-825B-3085E95B620A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFE651C-062A-40A5-8C21-E9AE5B78538A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFE651C-062A-40A5-8C21-E9AE5B78538A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFE651C-062A-40A5-8C21-E9AE5B78538A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFE651C-062A-40A5-8C21-E9AE5B78538A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
