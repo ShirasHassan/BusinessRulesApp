@@ -12,7 +12,7 @@ namespace BusinessRulesApi.Middleware.CustomSwagger {
             operation.Parameters.Add (new OpenApiParameter {
                 Name = "Authorization",
                     In = ParameterLocation.Header,
-                    Schema = new OpenApiSchema { Type = "strng" },
+                    Schema = new OpenApiSchema { Type = "string" },
                     Required = false
             });
         }
